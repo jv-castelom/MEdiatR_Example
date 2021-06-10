@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\MediatR_Exemplo\MediatR_Exemplo.Core\bin\Debug\netcoreapp3.1\MediatR_Exemplo.Core.deps.json
+C:\Users\User\source\repos\MediatR_Exemplo\MediatR_Exemplo.Core\bin\Debug\netcoreapp3.1\MediatR_Exemplo.Core.dll
+C:\Users\User\source\repos\MediatR_Exemplo\MediatR_Exemplo.Core\bin\Debug\netcoreapp3.1\MediatR_Exemplo.Core.pdb
+C:\Users\User\source\repos\MediatR_Exemplo\MediatR_Exemplo.Core\bin\Debug\netcoreapp3.1\MediatR_Exemplo.Shared.dll
+C:\Users\User\source\repos\MediatR_Exemplo\MediatR_Exemplo.Core\bin\Debug\netcoreapp3.1\MediatR_Exemplo.Shared.pdb
+C:\Users\User\source\repos\MediatR_Exemplo\MediatR_Exemplo.Core\obj\Debug\netcoreapp3.1\MediatR_Exemplo.Core.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MediatR_Exemplo\MediatR_Exemplo.Core\obj\Debug\netcoreapp3.1\MediatR_Exemplo.Core.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MediatR_Exemplo\MediatR_Exemplo.Core\obj\Debug\netcoreapp3.1\MediatR_Exemplo.Core.AssemblyInfo.cs
+C:\Users\User\source\repos\MediatR_Exemplo\MediatR_Exemplo.Core\obj\Debug\netcoreapp3.1\MediatR_Exemplo.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MediatR_Exemplo\MediatR_Exemplo.Core\obj\Debug\netcoreapp3.1\MediatR_Exemplo.Core.csproj.CopyComplete
+C:\Users\User\source\repos\MediatR_Exemplo\MediatR_Exemplo.Core\obj\Debug\netcoreapp3.1\MediatR_Exemplo.Core.dll
+C:\Users\User\source\repos\MediatR_Exemplo\MediatR_Exemplo.Core\obj\Debug\netcoreapp3.1\MediatR_Exemplo.Core.pdb

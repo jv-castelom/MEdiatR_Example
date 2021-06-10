@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MediatR_Exemplo.Core\MediatR_Exemplo.Core.csproj" />
+    <ProjectReference Include="..\MediatR_Exemplo.Shared\MediatR_Exemplo.Shared.csproj" />
+  </ItemGroup>
+
+</Project>
